@@ -1,53 +1,40 @@
-README.md
-# FamilyLawProAdvisor_BR
+# Advogado de Família Estratégico
 
-## Descrição
+## Visão Geral
 
-A **FamilyLawProAdvisor_BR** é uma SKILL especializada em Direito de Família, desenvolvida para oferecer orientação jurídica estratégica, elaboração de documentos e análise de cenários com alto nível profissional.
-
-Ideal para:
-- Advogados
-- Escritórios jurídicos
-- Cidadãos que buscam orientação segura
-- Produção de peças jurídicas automatizadas
+Esta SKILL foi desenvolvida para oferecer suporte jurídico especializado em Direito de Família, com foco em clareza, estratégia e resultados práticos para usuários leigos.
 
 ## Funcionalidades
 
-- Geração de petições completas
-- Orientação jurídica acessível
-- Análise de casos familiares
-- Estratégias processuais
-- Padronização profissional de documentos
+- Elaboração de peças jurídicas completas
+- Orientação em conflitos familiares
+- Estruturação de pedidos judiciais
+- Explicação de direitos de forma simples
+- Apoio estratégico em decisões jurídicas
+
+## Público-Alvo
+
+- Pessoas em processos de divórcio
+- Pais em disputas de guarda
+- Interessados em pensão alimentícia
+- Famílias em processo de inventário
+- Usuários sem conhecimento jurídico
 
 ## Diferenciais
 
-- Linguagem clara e objetiva
-- Estrutura jurídica sólida
-- Foco em resultado
-- Aplicável para usuários leigos
-
-## Como Utilizar
-
-1. Informe sua situação
-2. Responda às perguntas do assistente
-3. Solicite orientação ou documento
-4. Receba resposta estruturada e pronta para uso
-
-## Documentos Gerados
-
-Todos os documentos seguem padrão profissional com:
-- Cabeçalho estruturado
-- Fundamentação jurídica
-- Linguagem formal
-- Rodapé institucional
+- Linguagem acessível
+- Estrutura profissional
+- Orientação estratégica
+- Credibilidade institucional
+- Aplicação prática imediata
 
 ## Autor
 
 Carlos A. A. Oliveira  
-OAB/PA 33996  
-@oliveiraCarlosADV  
-http://www.oliveiracarlos.adv.br
+OAB/PA 33996
 
 ## Contato
 
-(91) 9 9827-7601
+Telefone: (91) 9 9827-7601  
+Site: http://www.oliveiracarlos.adv.br  
+Instagram: @oliveiraCarlosADV
