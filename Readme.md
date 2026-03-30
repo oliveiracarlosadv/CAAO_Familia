@@ -1,31 +1,21 @@
-# Advogado de Família Estratégico
+# DireitoFamiliaEstrategico
 
 ## Visão Geral
 
-Esta SKILL foi desenvolvida para oferecer suporte jurídico especializado em Direito de Família, com foco em clareza, estratégia e resultados práticos para usuários leigos.
+Skill jurídica desenvolvida para oferecer suporte completo em Direito de Família com abordagem estratégica, linguagem clara e foco em solução prática.
 
-## Funcionalidades
+## O que esta Skill faz
 
-- Elaboração de peças jurídicas completas
-- Orientação em conflitos familiares
-- Estruturação de pedidos judiciais
-- Explicação de direitos de forma simples
-- Apoio estratégico em decisões jurídicas
-
-## Público-Alvo
-
-- Pessoas em processos de divórcio
-- Pais em disputas de guarda
-- Interessados em pensão alimentícia
-- Famílias em processo de inventário
-- Usuários sem conhecimento jurídico
+- Orienta usuários leigos em situações familiares complexas
+- Cria documentos jurídicos completos
+- Explica direitos de forma simples e objetiva
+- Estrutura soluções jurídicas com segurança
 
 ## Diferenciais
 
-- Linguagem acessível
-- Estrutura profissional
-- Orientação estratégica
-- Credibilidade institucional
+- Comunicação clara e acessível
+- Estrutura jurídica profissional
+- Alto nível de credibilidade
 - Aplicação prática imediata
 
 ## Autor
